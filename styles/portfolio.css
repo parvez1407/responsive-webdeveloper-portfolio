@@ -282,4 +282,7 @@ textarea {
   footer {
     flex-direction: column;
   }
+  .btn-primary {
+    margin-bottom: 15px;
+  }
 }
